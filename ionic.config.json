@@ -1,0 +1,8 @@
+{
+  "name": "CapstoneProjectIonic",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "f127e9d9"
+}
